@@ -7,9 +7,13 @@
 ![AI Engine](https://img.shields.io/badge/AI-Google%20Gemini-8E75B2)
 ![AI Engine](https://img.shields.io/badge/AI-ElevenLabs-violet)
 
+
+###  ⚠️  THIS CODE IS NOT FULLY COMPLETED!!! UPDATE SOON!!  ⚠️ ###
+
+
 This project is an advanced IoT controller for the **BMW 5 Series (E60/E61)**. It bridges the car's **K-CAN** bus with modern AI technology, allowing for conversations with the vehicle, remote control via a Web Dashboard, and intelligent automation features not found in the original modules.
 
-> ⚠️ **Note:** This project is a Work in Progress (WIP). Tested **ONLY** with Pre-LCI E60 530i LIMOUSINE 2003 MANUAL.
+> **Note:** This project is a Work in Progress (WIP). Tested **ONLY** with Pre-LCI E60 530i LIMOUSINE 2003 MANUAL.
 
 ## ✨ Key Features
 
