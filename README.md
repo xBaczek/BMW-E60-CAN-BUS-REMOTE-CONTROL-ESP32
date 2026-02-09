@@ -103,7 +103,7 @@ This project is available in two fully localized versions. You can choose your p
 
 | Version | Language | Description | Download |
 | :---: | :---: | :--- | :---: |
-| **PL** | 🇵🇱 Polish | Polish Web Interface & Polish AI Voice Assistant. | [**Download**](../../releases) |
+| **PL** | 🇵🇱 Polish | Polish Web Interface & Polish AI Voice Assistant. SOON!! IN THE NEXT UPDATE!!!  | [**Download**](../../releases) |
 | **EN** | 🇬🇧 English | English Web Interface & English AI Voice Assistant. | [**Download**](../../releases) |
 
 > 📥 **How to install?**
