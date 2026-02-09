@@ -56,7 +56,7 @@ Here is a preview of the **Web Dashboard** running on a mobile browser. The inte
 
 | Feature | Status | Progress | Info |
 | :--- | :---: | :--- | :--- |
-| **CAN Bus Engine** | ![Stable](https://img.shields.io/badge/Stable-green) | ██████████ 100% | Odbiór i wysyłanie ramek działa stabilnie. |
+| **CAN Bus Engine** | ![Stable](https://img.shields.io/badge/Stable-green) | ██████████ WIP | Working on receving and sending can bus codes |
 | **AI Voice Assistant** | ![Beta](https://img.shields.io/badge/Beta-yellow) | ████████░░ 80% | Gemini works and normal TTS but ElevenLabs is not working in 100%. Improve latency. |
 | **Web Dashboard** | ![Beta](https://img.shields.io/badge/Beta-yellow) | ██████░░░░ 60% | The panel works, but Spotify control is missing. Improve sniffer and logs |
 | **Spotify Integration** | ![Hold](https://img.shields.io/badge/Hold-red) | ░░░░░░░░░░ 0% | *Suspended by Spotify API changes.* |
