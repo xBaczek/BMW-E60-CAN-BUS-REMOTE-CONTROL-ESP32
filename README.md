@@ -218,6 +218,8 @@ const char* password = "PASSWORD";  // Hotspot Password
 ## Step 7: Enter to Web Panel on Phone
 1. Open CHROME!!! and type in search bar: `chrome://flags/`.
 2. Search `Insecure origins treated as secure`.
+3. Enter ESP32 IP like that: `http://192.168.420.1` (this IP is example).
+4. Then you have to restart your browser with button that will appear at the very bottom of the screen.
 
 ## 🤝 Contributing & Support
 
